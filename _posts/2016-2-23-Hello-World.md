@@ -12,4 +12,4 @@ This is the first post on the first day of the BioHack Academy
 
 **bold**
 
-[link to my website](https://www.revolute.nl/index.php)
+[link to my website](https://www.timvanelferen.nl/index.php)
