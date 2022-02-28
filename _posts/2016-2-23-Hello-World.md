@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Hello World
+published: true
 ---
 
 # Title
-
+BioHackAcademy documentation
 ## Subtitle
 
-First post on my Github Jekyll page on the first day of the BioHack Academy
+This is the first post on the first day of the BioHack Academy
 
 **bold**
 
-[link to google](www.google.com)
+[link to my website](www.revolute.nl)
